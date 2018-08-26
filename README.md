@@ -4,6 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Courses & tutorials
 
+08/26/18
+Learn Angular 6 in 60 Minutes: https://www.youtube.com/watch?v=z4JUm0Bq9AM
+MEAN App From Scratch: https://www.youtube.com/watch?v=PFP0oXNNveg
+Polling in Angular: https://nehalist.io/polling-in-angular/
+Real Time Apps: https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
+MEAN Stack Angular 6 CRUD Web Application: https://www.djamware.com/post/5b00bb9180aca726dee1fd6d/mean-stack-angular-6-crud-web-application#ch2
+
 https://codingthesmartway.com/angular-6-mean-stack-crash-course-part-2-implementing-the-back-end/ https://www.djamware.com/post/5b00bb9180aca726dee1fd6d/mean-stack-angular-6-crud-web-application#ch2
 https://nehalist.io/polling-in-angular/
 
